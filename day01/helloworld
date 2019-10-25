@@ -1,0 +1,3 @@
+print("hello world!")
+
+# print() 默认输出是换行的，
