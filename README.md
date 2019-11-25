@@ -13,3 +13,6 @@ _因为公司项目需要用到hadoop,spark,hive等大数据相关技术,所以�
 ## 5-[Python函数](https://github.com/kezhangziyou/Python-study/tree/master/day05)
 ## 6-[Python模块与包](https://github.com/kezhangziyou/Python-study/tree/master/day06)
 ## 7-[Python数据结构--序列](https://github.com/kezhangziyou/Python-study/tree/master/day07)
+## 8-[Python数据结构--List](https://github.com/kezhangziyou/Python-study/tree/master/day08)
+## 9-[Python数据结构--元组](https://github.com/kezhangziyou/Python-study/tree/master/day09)
+## 10-[Python类于对象](https://github.com/kezhangziyou/Python-study/tree/master/day10)
